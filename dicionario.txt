@@ -1,0 +1,11 @@
+javascript
+ruby
+c#
+angular
+react
+rails
+typescript
+programador
+desenvolvedor
+tester
+requisitos
